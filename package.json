@@ -1,0 +1,12 @@
+{
+  "name": "demo-eosjs",
+  "version": "1.0.0",
+  "description": "this is a demo for my pp",
+  "main": "index.js",
+  "author": "jacky",
+  "license": "MIT",
+  "dependencies": {
+    "eosjs": "^16.0.6",
+    "request": "^2.88.0"
+  }
+}
